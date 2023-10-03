@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+WebSocket
+httpx
+socket.io
